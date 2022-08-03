@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ayushdafraik
 - 👀 I’m interested in Data analysis
 - 🌱 I’m currently learning data analysis
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... https://www.linkedin.com/in/ayush-dafraik-a1701549/
 -
 
